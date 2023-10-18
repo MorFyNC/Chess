@@ -7,8 +7,4 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
-  <ItemGroup>
-    <Compile Include="C:\Users\212223\Desktop\шахматы классы.cs" Link="шахматы классы.cs" />
-  </ItemGroup>
-
 </Project>
